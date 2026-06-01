@@ -1,0 +1,30 @@
+var json_HidranAir_3 = {
+"type": "FeatureCollection",
+"name": "HidranAir_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"xy_coordinate_resolution": 1e-15,
+"features": [
+{ "type": "Feature", "properties": { "Kode Hidra": "Siammesse Connection A", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.37312, -7.816816 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Siammesse Connection B", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373558, -7.815989 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Siammesse Connection C", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373725, -7.8206 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran A 01", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373638, -7.81601 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran A 02", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.37387, -7.816557 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran A 03", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373869, -7.81655 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran A 04", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373591, -7.816575 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran A 05", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373897, -7.817088 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran A 06", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373921, -7.817112 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran B 01", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373187, -7.818142 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran B 02", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373548, -7.81796 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran B 03", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.374386, -7.818896 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran B 04", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373713, -7.818778 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran B 05", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.374408, -7.818873 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran B 06", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.374484, -7.819294 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran B 07", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373827, -7.819739 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran C 01", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373131, -7.821106 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran C 02", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.374314, -7.820757 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran C 03", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.374288, -7.820762 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran C 04", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373696, -7.818789 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran C 06", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.37445, -7.81982 ] } },
+{ "type": "Feature", "properties": { "Kode Hidra": "Box Hidran C 07", "Status": "Berfungsi" }, "geometry": { "type": "Point", "coordinates": [ 110.373816, -7.819731 ] } }
+]
+}
